@@ -1,9 +1,9 @@
-# Your Name Here
+# Nolan Hottell
 # UWYO COSC 1010
-# Submission Date
+# 10/3/2024
 # Lab 03 
 # Lab Section: 
-# Sources, people worked with, help given to: 
+# Bradley Ekrstrom, Riley Green
 # your
 # comments
 # here
@@ -102,4 +102,5 @@ min_temps = [
 # For the next part, determine the highest and lowest recorded temperatures.
 # HINT: You can find this information without using any logic or looping.
 
+for temp in max_temps
 
